@@ -1,0 +1,2 @@
+* Buat database bernama "mahasiswa"
+* Import database di dalam folder database
